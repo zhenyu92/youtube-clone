@@ -7,7 +7,7 @@ This is a code repository of a React.js based web app for an YouTube clone app w
 3. Material UI
 
 ### Screenshot
-![image](https)
+![image](https://github.com/zhenyu92/youtube-clone/blob/main/screenshot.PNG)
 
 ### Credits
 This project is a part of the learning series delivered by [JavaScript Mastery](https://github.com/adrianhajdin).
